@@ -1,3 +1,12 @@
 html {
   background-color: rgb(218, 167, 167);
 }
+h1{
+  border: 8px solid black
+}
+p.b{
+  font-style: normal;
+}
+p.small{
+  font-variant: small-caps;
+}
